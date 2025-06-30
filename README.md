@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## The Little Lemon 🍋
 
 A modern, mobile-first restaurant web app featuring:
@@ -15,3 +16,5 @@ React, React Router, FontAwesome, CSS
 ---
 
 Built with 💛 by Kris Savvas Aylett.
+=======
+

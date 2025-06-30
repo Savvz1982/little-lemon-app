@@ -6,6 +6,9 @@ import App from './App';
 import ScrollToTop from './components/layout/ScrollToTop';
 import reportWebVitals from './reportWebVitals';
 
+require('events').EventEmitter.defaultMaxListeners = 50;
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

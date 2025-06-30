@@ -16,7 +16,7 @@ import logoWhiteImage from './assets/logo-white.png';
 import pages from '../../utils/pages';
 
 const contacts = [
-  { icon: faLocationDot, info: '202 Broa Street, Augusta, GA 30901', },
+  { icon: faLocationDot, info: '202 Broad Street, Augusta, GA 30901', },
   { icon: faPhone, info: '(706) 593-2744', },
   { icon: faEnvelope, info: 'customer@littlelemon.com', },
 ];
