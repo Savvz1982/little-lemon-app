@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## The Little Lemon 🍋
 
 A modern, mobile-first restaurant web app featuring:
