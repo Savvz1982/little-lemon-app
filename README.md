@@ -7,7 +7,7 @@ A modern, mobile-first restaurant web app featuring:
 - 🧭 Smooth navigation and animations
 
 ## 🚀 Live Demo
-[https://little-lemon-app.vercel.app](https://little-lemon-app.vercel.app)
+[https://little-lemon-app.vercel.app](https://little-lemon-app.vercel.app)](https://little-lemon-nnkiuw1uf-kris-ayletts-projects.vercel.app/)
 
 ## 📦 Tech Stack
 React, React Router, FontAwesome, CSS
